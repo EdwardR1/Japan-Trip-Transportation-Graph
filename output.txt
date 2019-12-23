@@ -1,0 +1,213 @@
+City: Osaka
+
+Locations: 
+- Shin Osaka Station
+- Osaka Castle
+- Shinsekai
+- Kuromon Market
+- Dotonburi
+- Osaka Guest House Sano San Chi Yu
+- Shitennoji
+
+Paths: 
+Path from Shin Osaka Station to Osaka Guest House Sano San Chi Yu with an overall travel time of 50 mins:
+Shin Osaka Station -> Cab -> Osaka Guest House Sano San Chi Yu
+
+Path from Osaka Castle to Osaka Guest House Sano San Chi Yu with an overall travel time of 72 mins:
+Osaka Castle -> (From Izumosano Station take the Nankai Line to Tengachaya Station) -> (From Tengachaya Station take the Sakaisuji Station to Sakaisuji Hommachi Station) -> (From Sakaisuji Hommachi Station take the Chuo Line to Tanimachiyachome Station) -> Osaka Guest House Sano San Chi Yu
+
+Path from Shinsekai to Dotonburi with an overall travel time of 27 mins:
+Shinsekai -> (From Dotonburi take the Walk to Shinsekai) -> Dotonburi
+
+Path from Shinsekai to Osaka Guest House Sano San Chi Yu with an overall travel time of 42 mins:
+Shinsekai -> (From Izumosano Station take the Nankai-Limited Express Line to Shin-Imamiya Station) -> Osaka Guest House Sano San Chi Yu
+
+Path from Kuromon Market to Dotonburi with an overall travel time of 12 mins:
+Kuromon Market -> Walk -> Dotonburi
+
+Path from Kuromon Market to Osaka Guest House Sano San Chi Yu with an overall travel time of 44 mins:
+Kuromon Market -> (From Izumosano Station take the Nankai-Limited Express Line to Namba Station) -> Osaka Guest House Sano San Chi Yu
+
+Path from Dotonburi to Shinsekai with an overall travel time of 27 mins:
+Dotonburi -> Walk -> Shinsekai
+
+Path from Dotonburi to Kuromon Market with an overall travel time of 12 mins:
+Dotonburi -> (From Kuromon Market take the Walk to Dotonburi) -> Kuromon Market
+
+Path from Dotonburi to Osaka Guest House Sano San Chi Yu with an overall travel time of 44 mins:
+Dotonburi -> (From Izumosano Station take the Nankai-Limited Express Line to Namba Station) -> Osaka Guest House Sano San Chi Yu
+
+Path from Osaka Guest House Sano San Chi Yu to Shin Osaka Station with an overall travel time of 50 mins:
+Osaka Guest House Sano San Chi Yu -> (From Shin Osaka Station take the Cab to Osaka Guest House Sano San Chi Yu) -> Shin Osaka Station
+
+Path from Osaka Guest House Sano San Chi Yu to Osaka Castle with an overall travel time of 72 mins:
+Osaka Guest House Sano San Chi Yu -> (From Izumosano Station take the Nankai Line to Tengachaya Station) -> (From Tengachaya Station take the Sakaisuji Station to Sakaisuji Hommachi Station) -> (From Sakaisuji Hommachi Station take the Chuo Line to Tanimachiyachome Station) -> Osaka Castle
+
+Path from Osaka Guest House Sano San Chi Yu to Shinsekai with an overall travel time of 42 mins:
+Osaka Guest House Sano San Chi Yu -> (From Izumosano Station take the Nankai-Limited Express Line to Shin-Imamiya Station) -> Shinsekai
+
+Path from Osaka Guest House Sano San Chi Yu to Kuromon Market with an overall travel time of 44 mins:
+Osaka Guest House Sano San Chi Yu -> (From Izumosano Station take the Nankai-Limited Express Line to Namba Station) -> Kuromon Market
+
+Path from Osaka Guest House Sano San Chi Yu to Dotonburi with an overall travel time of 44 mins:
+Osaka Guest House Sano San Chi Yu -> (From Izumosano Station take the Nankai-Limited Express Line to Namba Station) -> Dotonburi
+
+Path from Osaka Guest House Sano San Chi Yu to Shitennoji with an overall travel time of 57 mins:
+Osaka Guest House Sano San Chi Yu -> (From Izumosano Station take the Nankai Line to Shin-Imamiyo Station) -> (From Shin-Imamiyo Station take the Osaka Loop to Tennoji Station) -> Shitennoji
+
+Path from Shitennoji to Osaka Guest House Sano San Chi Yu with an overall travel time of 57 mins:
+Shitennoji -> (From Izumosano Station take the Nankai Line to Shin-Imamiyo Station) -> (From Shin-Imamiyo Station take the Osaka Loop to Tennoji Station) -> Osaka Guest House Sano San Chi Yu
+
+
+Transportation:
+- Osaka Loop
+- Nankai Line
+- Sakaisuji Station
+- Chuo Line
+- Nankai-Limited Express Line
+
+====================================================================================================
+
+City: Kyoto
+
+Locations: 
+- Kyoto Station
+- Yasaka Pagoda
+- Arashiyama Bamboo Groove
+- Hotel Mokuren
+- Kinkakuji
+- Himeji Castle
+- Fushimi Inari Taishi
+- Tenryuji Temple
+
+Paths: 
+Path from Kyoto Station to Hotel Mokuren with an overall travel time of 25 mins:
+Kyoto Station -> walk -> Hotel Mokuren
+
+Path from Yasaka Pagoda to Hotel Mokuren with an overall travel time of 15 mins:
+Yasaka Pagoda -> (From Hotel Mokuren take the walk to Yasaka Pagoda) -> Hotel Mokuren
+
+Path from Yasaka Pagoda to Kinkakuji with an overall travel time of 50 mins:
+Yasaka Pagoda -> (From Kinkakuji-mae take the 12 Bus to Horikawa Marutamachi) -> (From Horikawa Marutamachi take the 202 Bus to Kiyomizumichi) -> Kinkakuji
+
+Path from Arashiyama Bamboo Groove to Hotel Mokuren with an overall travel time of 35 mins:
+Arashiyama Bamboo Groove -> (From Tambaguchi Station take the San-In Line to Saga-Arashiyama Station) -> Hotel Mokuren
+
+Path from Hotel Mokuren to Kyoto Station with an overall travel time of 25 mins:
+Hotel Mokuren -> (From Kyoto Station take the walk to Hotel Mokuren) -> Kyoto Station
+
+Path from Hotel Mokuren to Yasaka Pagoda with an overall travel time of 15 mins:
+Hotel Mokuren -> walk -> Yasaka Pagoda
+
+Path from Hotel Mokuren to Arashiyama Bamboo Groove with an overall travel time of 35 mins:
+Hotel Mokuren -> (From Tambaguchi Station take the San-In Line to Saga-Arashiyama Station) -> Arashiyama Bamboo Groove
+
+Path from Hotel Mokuren to Kinkakuji with an overall travel time of 51 mins:
+Hotel Mokuren -> (From Kawaramachi Gojo take the 205 Bus to Kinkakujimichi) -> Kinkakuji
+
+Path from Hotel Mokuren to Himeji Castle with an overall travel time of 96 mins:
+Hotel Mokuren -> (From Kyoto Station take the JR Hikari to Himeji Station) -> Himeji Castle
+
+Path from Hotel Mokuren to Fushimi Inari Taishi with an overall travel time of 15 mins:
+Hotel Mokuren -> (From Kiyomizo-Gojo Station take the Keihan Main Line to Fushimi-Inari Station) -> Fushimi Inari Taishi
+
+Path from Hotel Mokuren to Tenryuji Temple with an overall travel time of 53 mins:
+Hotel Mokuren -> (From Gojo Keihan take the 82 Bus to Shijo Omiya) -> (From Shijo Omiya take the Randen (Local Arashiyama) to Arashiyama Station) -> Tenryuji Temple
+
+Path from Kinkakuji to Yasaka Pagoda with an overall travel time of 50 mins:
+Kinkakuji -> (From Kinkakuji-mae take the 12 Bus to Horikawa Marutamachi) -> (From Horikawa Marutamachi take the 202 Bus to Kiyomizumichi) -> Yasaka Pagoda
+
+Path from Kinkakuji to Hotel Mokuren with an overall travel time of 51 mins:
+Kinkakuji -> (From Kawaramachi Gojo take the 205 Bus to Kinkakujimichi) -> Hotel Mokuren
+
+Path from Himeji Castle to Hotel Mokuren with an overall travel time of 96 mins:
+Himeji Castle -> (From Kyoto Station take the JR Hikari to Himeji Station) -> Hotel Mokuren
+
+Path from Fushimi Inari Taishi to Hotel Mokuren with an overall travel time of 15 mins:
+Fushimi Inari Taishi -> (From Kiyomizo-Gojo Station take the Keihan Main Line to Fushimi-Inari Station) -> Hotel Mokuren
+
+Path from Tenryuji Temple to Hotel Mokuren with an overall travel time of 53 mins:
+Tenryuji Temple -> (From Gojo Keihan take the 82 Bus to Shijo Omiya) -> (From Shijo Omiya take the Randen (Local Arashiyama) to Arashiyama Station) -> Hotel Mokuren
+
+
+Transportation:
+- JR Hikari
+- Keihan Main Line
+- 202 Bus
+- Randen Line
+- 82 Bus
+- Randen (Local Arashiyama)
+- San-In Line
+- 12 Bus
+- 205 Bus
+
+====================================================================================================
+
+City: Tokyo
+
+Locations: 
+- Akihabara (B)
+- Tokaido Shinkansen
+- Akihabara (A)
+- Robot Restaurant (A)
+- Robot Restaurant (B)
+- TeamLab Borderless
+- Hotel Daiichi
+- Fish Market
+
+Paths: 
+Path from Akihabara (B) to Robot Restaurant (A) with an overall travel time of 35 mins:
+Akihabara (B) -> (From Shinjuku-Hishiguchi Station take the (E) Oedo Line to Ueno-Okachimachi) -> Robot Restaurant (A)
+
+Path from Tokaido Shinkansen to Hotel Daiichi with an overall travel time of 11 mins:
+Tokaido Shinkansen -> (From Hotel Daiichi take the Walk to Tokaido Shinkansen) -> Hotel Daiichi
+
+Path from Akihabara (A) to Robot Restaurant (A) with an overall travel time of 33 mins:
+Akihabara (A) -> (From Shinjuku Station take the [JB] Chuo-Sobu Line to Akihabara Station) -> Robot Restaurant (A)
+
+Path from Akihabara (A) to Hotel Daiichi with an overall travel time of 20 mins:
+Akihabara (A) -> (From Shimbashi Station take the (G) Ginza Line to Suchirocho Station) -> Hotel Daiichi
+
+Path from Robot Restaurant (A) to Akihabara (B) with an overall travel time of 35 mins:
+Robot Restaurant (A) -> (From Shinjuku-Hishiguchi Station take the (E) Oedo Line to Ueno-Okachimachi) -> Akihabara (B)
+
+Path from Robot Restaurant (A) to Akihabara (A) with an overall travel time of 33 mins:
+Robot Restaurant (A) -> (From Shinjuku Station take the [JB] Chuo-Sobu Line to Akihabara Station) -> Akihabara (A)
+
+Path from Robot Restaurant (A) to Hotel Daiichi with an overall travel time of 30 mins:
+Robot Restaurant (A) -> (From Ginza Station take the (M) Marunuochi Line to Shinjuku Station) -> Hotel Daiichi
+
+Path from Robot Restaurant (B) to Hotel Daiichi with an overall travel time of 25 mins:
+Robot Restaurant (B) -> (From Shimbashi Station take the (G) Ginza Line to Akasaka Mitsuke Station) -> (From Akasaka Mitsuke Station take the (M) Marunuochi Line to Shinjuku Station) -> Hotel Daiichi
+
+Path from TeamLab Borderless to Hotel Daiichi with an overall travel time of 27 mins:
+TeamLab Borderless -> (From Shimbashi Station take the (U) Yurikamome Line to Aomi Station) -> Hotel Daiichi
+
+Path from Hotel Daiichi to Tokaido Shinkansen with an overall travel time of 11 mins:
+Hotel Daiichi -> Walk -> Tokaido Shinkansen
+
+Path from Hotel Daiichi to Akihabara (A) with an overall travel time of 20 mins:
+Hotel Daiichi -> (From Shimbashi Station take the (G) Ginza Line to Suchirocho Station) -> Akihabara (A)
+
+Path from Hotel Daiichi to Robot Restaurant (A) with an overall travel time of 30 mins:
+Hotel Daiichi -> (From Ginza Station take the (M) Marunuochi Line to Shinjuku Station) -> Robot Restaurant (A)
+
+Path from Hotel Daiichi to Robot Restaurant (B) with an overall travel time of 25 mins:
+Hotel Daiichi -> (From Shimbashi Station take the (G) Ginza Line to Akasaka Mitsuke Station) -> (From Akasaka Mitsuke Station take the (M) Marunuochi Line to Shinjuku Station) -> Robot Restaurant (B)
+
+Path from Hotel Daiichi to TeamLab Borderless with an overall travel time of 27 mins:
+Hotel Daiichi -> (From Shimbashi Station take the (U) Yurikamome Line to Aomi Station) -> TeamLab Borderless
+
+Path from Hotel Daiichi to Fish Market with an overall travel time of 18 mins:
+Hotel Daiichi -> Walk -> Fish Market
+
+Path from Fish Market to Hotel Daiichi with an overall travel time of 18 mins:
+Fish Market -> (From Hotel Daiichi take the Walk to Fish Market) -> Hotel Daiichi
+
+
+Transportation:
+- (E) Oedo Line
+- (M) Marunuochi Line
+- [JB] Chuo-Sobu Line
+- (G) Ginza Line
+- (U) Yurikamome Line
