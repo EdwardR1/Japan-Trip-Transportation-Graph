@@ -39,6 +39,11 @@ public class Graph {
 
 		adjacencyMap.get(A.getLocation()).add(new Node(B, A.getMinutes(), A.getRoutes()));
 		adjacencyMap.get(B).add(A);
+	}
 
+	public LinkedList<Node> getEdge(String A) throws Exception {
+		if (!adjacencyMap.keySet().contains(A))
+			throw new Exception("No Vertex found!");
+		return adjacencyMap.get(A);
 	}
 }
