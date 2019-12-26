@@ -1,0 +1,67 @@
+City: Osaka
+
+Locations: 
+- Shin Osaka Station
+- Osaka Castle
+- Shinsekai
+- Kuromon Market
+- Dotonburi
+- Osaka Guest House Sano San Chi Yu
+- Shitennoji
+
+Paths: 
+Path from Shin Osaka Station to Osaka Guest House Sano San Chi Yu with an overall travel time of 50 mins:
+Shin Osaka Station -> Cab -> Osaka Guest House Sano San Chi Yu
+
+Path from Osaka Castle to Osaka Guest House Sano San Chi Yu with an overall travel time of 72 mins:
+Osaka Castle -> (From Izumosano Station take the Nankai Line to Tengachaya Station) -> (From Tengachaya Station take the Sakaisuji Station to Sakaisuji Hommachi Station) -> (From Sakaisuji Hommachi Station take the Chuo Line to Tanimachiyachome Station) -> Osaka Guest House Sano San Chi Yu
+
+Path from Shinsekai to Dotonburi with an overall travel time of 27 mins:
+Shinsekai -> (From Dotonburi take the Walk to Shinsekai) -> Dotonburi
+
+Path from Shinsekai to Osaka Guest House Sano San Chi Yu with an overall travel time of 42 mins:
+Shinsekai -> (From Izumosano Station take the Nankai-Limited Express Line to Shin-Imamiya Station) -> Osaka Guest House Sano San Chi Yu
+
+Path from Kuromon Market to Dotonburi with an overall travel time of 12 mins:
+Kuromon Market -> Walk -> Dotonburi
+
+Path from Kuromon Market to Osaka Guest House Sano San Chi Yu with an overall travel time of 44 mins:
+Kuromon Market -> (From Izumosano Station take the Nankai-Limited Express Line to Namba Station) -> Osaka Guest House Sano San Chi Yu
+
+Path from Dotonburi to Shinsekai with an overall travel time of 27 mins:
+Dotonburi -> Walk -> Shinsekai
+
+Path from Dotonburi to Kuromon Market with an overall travel time of 12 mins:
+Dotonburi -> (From Kuromon Market take the Walk to Dotonburi) -> Kuromon Market
+
+Path from Dotonburi to Osaka Guest House Sano San Chi Yu with an overall travel time of 44 mins:
+Dotonburi -> (From Izumosano Station take the Nankai-Limited Express Line to Namba Station) -> Osaka Guest House Sano San Chi Yu
+
+Path from Osaka Guest House Sano San Chi Yu to Shin Osaka Station with an overall travel time of 50 mins:
+Osaka Guest House Sano San Chi Yu -> (From Shin Osaka Station take the Cab to Osaka Guest House Sano San Chi Yu) -> Shin Osaka Station
+
+Path from Osaka Guest House Sano San Chi Yu to Osaka Castle with an overall travel time of 72 mins:
+Osaka Guest House Sano San Chi Yu -> (From Izumosano Station take the Nankai Line to Tengachaya Station) -> (From Tengachaya Station take the Sakaisuji Station to Sakaisuji Hommachi Station) -> (From Sakaisuji Hommachi Station take the Chuo Line to Tanimachiyachome Station) -> Osaka Castle
+
+Path from Osaka Guest House Sano San Chi Yu to Shinsekai with an overall travel time of 42 mins:
+Osaka Guest House Sano San Chi Yu -> (From Izumosano Station take the Nankai-Limited Express Line to Shin-Imamiya Station) -> Shinsekai
+
+Path from Osaka Guest House Sano San Chi Yu to Kuromon Market with an overall travel time of 44 mins:
+Osaka Guest House Sano San Chi Yu -> (From Izumosano Station take the Nankai-Limited Express Line to Namba Station) -> Kuromon Market
+
+Path from Osaka Guest House Sano San Chi Yu to Dotonburi with an overall travel time of 44 mins:
+Osaka Guest House Sano San Chi Yu -> (From Izumosano Station take the Nankai-Limited Express Line to Namba Station) -> Dotonburi
+
+Path from Osaka Guest House Sano San Chi Yu to Shitennoji with an overall travel time of 57 mins:
+Osaka Guest House Sano San Chi Yu -> (From Izumosano Station take the Nankai Line to Shin-Imamiyo Station) -> (From Shin-Imamiyo Station take the Osaka Loop to Tennoji Station) -> Shitennoji
+
+Path from Shitennoji to Osaka Guest House Sano San Chi Yu with an overall travel time of 57 mins:
+Shitennoji -> (From Izumosano Station take the Nankai Line to Shin-Imamiyo Station) -> (From Shin-Imamiyo Station take the Osaka Loop to Tennoji Station) -> Osaka Guest House Sano San Chi Yu
+
+
+Transportation:
+- Osaka Loop
+- Nankai Line
+- Sakaisuji Station
+- Chuo Line
+- Nankai-Limited Express Line

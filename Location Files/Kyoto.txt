@@ -1,0 +1,72 @@
+City: Kyoto
+
+Locations: 
+- Kyoto Station
+- Yasaka Pagoda
+- Arashiyama Bamboo Groove
+- Hotel Mokuren
+- Kinkakuji
+- Himeji Castle
+- Fushimi Inari Taishi
+- Tenryuji Temple
+
+Paths: 
+Path from Kyoto Station to Hotel Mokuren with an overall travel time of 25 mins:
+Kyoto Station -> walk -> Hotel Mokuren
+
+Path from Yasaka Pagoda to Hotel Mokuren with an overall travel time of 15 mins:
+Yasaka Pagoda -> (From Hotel Mokuren take the walk to Yasaka Pagoda) -> Hotel Mokuren
+
+Path from Yasaka Pagoda to Kinkakuji with an overall travel time of 50 mins:
+Yasaka Pagoda -> (From Kinkakuji-mae take the 12 Bus to Horikawa Marutamachi) -> (From Horikawa Marutamachi take the 202 Bus to Kiyomizumichi) -> Kinkakuji
+
+Path from Arashiyama Bamboo Groove to Hotel Mokuren with an overall travel time of 35 mins:
+Arashiyama Bamboo Groove -> (From Tambaguchi Station take the San-In Line to Saga-Arashiyama Station) -> Hotel Mokuren
+
+Path from Hotel Mokuren to Kyoto Station with an overall travel time of 25 mins:
+Hotel Mokuren -> (From Kyoto Station take the walk to Hotel Mokuren) -> Kyoto Station
+
+Path from Hotel Mokuren to Yasaka Pagoda with an overall travel time of 15 mins:
+Hotel Mokuren -> walk -> Yasaka Pagoda
+
+Path from Hotel Mokuren to Arashiyama Bamboo Groove with an overall travel time of 35 mins:
+Hotel Mokuren -> (From Tambaguchi Station take the San-In Line to Saga-Arashiyama Station) -> Arashiyama Bamboo Groove
+
+Path from Hotel Mokuren to Kinkakuji with an overall travel time of 51 mins:
+Hotel Mokuren -> (From Kawaramachi Gojo take the 205 Bus to Kinkakujimichi) -> Kinkakuji
+
+Path from Hotel Mokuren to Himeji Castle with an overall travel time of 96 mins:
+Hotel Mokuren -> (From Kyoto Station take the JR Hikari to Himeji Station) -> Himeji Castle
+
+Path from Hotel Mokuren to Fushimi Inari Taishi with an overall travel time of 15 mins:
+Hotel Mokuren -> (From Kiyomizo-Gojo Station take the Keihan Main Line to Fushimi-Inari Station) -> Fushimi Inari Taishi
+
+Path from Hotel Mokuren to Tenryuji Temple with an overall travel time of 53 mins:
+Hotel Mokuren -> (From Gojo Keihan take the 82 Bus to Shijo Omiya) -> (From Shijo Omiya take the Randen (Local Arashiyama) to Arashiyama Station) -> Tenryuji Temple
+
+Path from Kinkakuji to Yasaka Pagoda with an overall travel time of 50 mins:
+Kinkakuji -> (From Kinkakuji-mae take the 12 Bus to Horikawa Marutamachi) -> (From Horikawa Marutamachi take the 202 Bus to Kiyomizumichi) -> Yasaka Pagoda
+
+Path from Kinkakuji to Hotel Mokuren with an overall travel time of 51 mins:
+Kinkakuji -> (From Kawaramachi Gojo take the 205 Bus to Kinkakujimichi) -> Hotel Mokuren
+
+Path from Himeji Castle to Hotel Mokuren with an overall travel time of 96 mins:
+Himeji Castle -> (From Kyoto Station take the JR Hikari to Himeji Station) -> Hotel Mokuren
+
+Path from Fushimi Inari Taishi to Hotel Mokuren with an overall travel time of 15 mins:
+Fushimi Inari Taishi -> (From Kiyomizo-Gojo Station take the Keihan Main Line to Fushimi-Inari Station) -> Hotel Mokuren
+
+Path from Tenryuji Temple to Hotel Mokuren with an overall travel time of 53 mins:
+Tenryuji Temple -> (From Gojo Keihan take the 82 Bus to Shijo Omiya) -> (From Shijo Omiya take the Randen (Local Arashiyama) to Arashiyama Station) -> Hotel Mokuren
+
+
+Transportation:
+- JR Hikari
+- Keihan Main Line
+- 202 Bus
+- Randen Line
+- 82 Bus
+- Randen (Local Arashiyama)
+- San-In Line
+- 12 Bus
+- 205 Bus

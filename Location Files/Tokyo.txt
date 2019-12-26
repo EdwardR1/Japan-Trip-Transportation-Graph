@@ -1,0 +1,68 @@
+City: Tokyo
+
+Locations: 
+- Akihabara (B)
+- Tokaido Shinkansen
+- Akihabara (A)
+- Robot Restaurant (A)
+- Robot Restaurant (B)
+- TeamLab Borderless
+- Hotel Daiichi
+- Fish Market
+
+Paths: 
+Path from Akihabara (B) to Robot Restaurant (A) with an overall travel time of 35 mins:
+Akihabara (B) -> (From Shinjuku-Hishiguchi Station take the (E) Oedo Line to Ueno-Okachimachi) -> Robot Restaurant (A)
+
+Path from Tokaido Shinkansen to Hotel Daiichi with an overall travel time of 11 mins:
+Tokaido Shinkansen -> (From Hotel Daiichi take the Walk to Tokaido Shinkansen) -> Hotel Daiichi
+
+Path from Akihabara (A) to Robot Restaurant (A) with an overall travel time of 33 mins:
+Akihabara (A) -> (From Shinjuku Station take the [JB] Chuo-Sobu Line to Akihabara Station) -> Robot Restaurant (A)
+
+Path from Akihabara (A) to Hotel Daiichi with an overall travel time of 20 mins:
+Akihabara (A) -> (From Shimbashi Station take the (G) Ginza Line to Suchirocho Station) -> Hotel Daiichi
+
+Path from Robot Restaurant (A) to Akihabara (B) with an overall travel time of 35 mins:
+Robot Restaurant (A) -> (From Shinjuku-Hishiguchi Station take the (E) Oedo Line to Ueno-Okachimachi) -> Akihabara (B)
+
+Path from Robot Restaurant (A) to Akihabara (A) with an overall travel time of 33 mins:
+Robot Restaurant (A) -> (From Shinjuku Station take the [JB] Chuo-Sobu Line to Akihabara Station) -> Akihabara (A)
+
+Path from Robot Restaurant (A) to Hotel Daiichi with an overall travel time of 30 mins:
+Robot Restaurant (A) -> (From Ginza Station take the (M) Marunuochi Line to Shinjuku Station) -> Hotel Daiichi
+
+Path from Robot Restaurant (B) to Hotel Daiichi with an overall travel time of 25 mins:
+Robot Restaurant (B) -> (From Shimbashi Station take the (G) Ginza Line to Akasaka Mitsuke Station) -> (From Akasaka Mitsuke Station take the (M) Marunuochi Line to Shinjuku Station) -> Hotel Daiichi
+
+Path from TeamLab Borderless to Hotel Daiichi with an overall travel time of 27 mins:
+TeamLab Borderless -> (From Shimbashi Station take the (U) Yurikamome Line to Aomi Station) -> Hotel Daiichi
+
+Path from Hotel Daiichi to Tokaido Shinkansen with an overall travel time of 11 mins:
+Hotel Daiichi -> Walk -> Tokaido Shinkansen
+
+Path from Hotel Daiichi to Akihabara (A) with an overall travel time of 20 mins:
+Hotel Daiichi -> (From Shimbashi Station take the (G) Ginza Line to Suchirocho Station) -> Akihabara (A)
+
+Path from Hotel Daiichi to Robot Restaurant (A) with an overall travel time of 30 mins:
+Hotel Daiichi -> (From Ginza Station take the (M) Marunuochi Line to Shinjuku Station) -> Robot Restaurant (A)
+
+Path from Hotel Daiichi to Robot Restaurant (B) with an overall travel time of 25 mins:
+Hotel Daiichi -> (From Shimbashi Station take the (G) Ginza Line to Akasaka Mitsuke Station) -> (From Akasaka Mitsuke Station take the (M) Marunuochi Line to Shinjuku Station) -> Robot Restaurant (B)
+
+Path from Hotel Daiichi to TeamLab Borderless with an overall travel time of 27 mins:
+Hotel Daiichi -> (From Shimbashi Station take the (U) Yurikamome Line to Aomi Station) -> TeamLab Borderless
+
+Path from Hotel Daiichi to Fish Market with an overall travel time of 18 mins:
+Hotel Daiichi -> Walk -> Fish Market
+
+Path from Fish Market to Hotel Daiichi with an overall travel time of 18 mins:
+Fish Market -> (From Hotel Daiichi take the Walk to Fish Market) -> Hotel Daiichi
+
+
+Transportation:
+- (E) Oedo Line
+- (M) Marunuochi Line
+- [JB] Chuo-Sobu Line
+- (G) Ginza Line
+- (U) Yurikamome Line
